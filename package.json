@@ -1,0 +1,13 @@
+{
+  "name": "dio.me---desafio-shopee-cart",
+  "version": "1.0.0",
+  "description": "Desafio dio.me para criar um carrinho de compras tipo shopee",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "Pedro Flores",
+  "license": "ISC"
+}
